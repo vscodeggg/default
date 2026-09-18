@@ -1,1 +1,1 @@
-# default
+# AuraDent AI
